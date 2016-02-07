@@ -1,0 +1,28 @@
+name: SelfKare
+favicon: null
+layout_spectrum: 0.10360749089159071
+typography_spectrum: 0.22383399750106037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09597945259884
+  lightness: 0.8644518563523889
+  saturation: 0.9556515775620937
+  rhythmicContrast: 0.7000807498116046
+purpose: []
