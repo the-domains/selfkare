@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Description goes here
-datePublished: '2016-02-14T01:57:22.298Z'
-dateModified: '2016-02-14T01:46:11.598Z'
-title: Title Here
+description: Featured Products
+datePublished: '2016-02-14T02:27:21.148Z'
+dateModified: '2016-02-14T02:27:14.755Z'
+title: 'Home '
 author: []
+sourcePath: _posts/2016-02-14-title-here.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-14-title-here.md
-published: true
 url: title-here/index.html
 _type: Article
 
