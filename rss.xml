@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SelfKare]]></title>
         <description><![CDATA[SelfKare]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/selfkare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 01:57:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 02:00:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/selfkare/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SelfKare Fitness and Yoga]]></title>
+            <description><![CDATA[<article><h1>SelfKare Fitness and Yoga</h1><p>This is the best site in the world</p></article>]]></description>
+            <link>https://thegrid.ai/selfkare/selfkare-fitness-and-yoga/index.html</link>
+            <guid isPermaLink="false">704a207b-1721-4ae2-99f5-5df5723fa254</guid>
+            <pubDate>Sun, 14 Feb 2016 01:59:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Title Here]]></title>
-            <description><![CDATA[<article><h1>Title Here</h1><p>This is a test for Self Kare site featuring our new foam rollers available for sale at Amazon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53e320c6fdb17817c59b81d59fa6ef360cef0493.png"></article>]]></description>
-            <link>undefinedtitle-here/index.html</link>
+            <description><![CDATA[<article><h1>Title Here</h1><p>This is a test for Self Kare site featuring our new foam rollers available for sale at Amazon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0ab1284ebe2c66d09866d1c517507956ac10ec5.png"></article>]]></description>
+            <link>https://thegrid.ai/selfkare/title-here/index.html</link>
             <guid isPermaLink="false">22dd6356-39c0-4b75-b04a-4b0de3d861dd</guid>
             <pubDate>Sun, 14 Feb 2016 01:57:22 GMT</pubDate>
         </item>
